@@ -1,5 +1,4 @@
-# ServerWithMultipleClients Project
-
+# Server With Multiple Clients
 ## Overview
 This project, developed for the "Computer Networks and Network Programming in Java" course, focuses on creating a server capable of handling multiple clients simultaneously using TCP. The communication protocol is text-based, involving line-by-line text exchanges, including numeric values in their text representation.
 
